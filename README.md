@@ -16,4 +16,4 @@ In order to deploy the database locally on your machine, you have to run on your
 2. vincoli di integrità generici.sql
 3. popolazione tabelle.sql
 
-You can 
+You can perform some pre-written operations on the DB by using the _operazioni sui dati.sql_ script or the _analytics.sql_ script.
